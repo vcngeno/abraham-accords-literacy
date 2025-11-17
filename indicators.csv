@@ -1,0 +1,7 @@
+indicatorId,name,theme,lastDataUpdate,lastDataUpdateDescription,dataAvailability.totalRecordCount,dataAvailability.timeLine.min,dataAvailability.timeLine.max,dataAvailability.geoUnits.types,disaggregations,glossaryTerms
+ESG.LOWERSEC.HIGHSES,"Percentage of students in lower secondary showing proficiency in knowledge of environmental science and geoscience, high socio-economic status (%)",EDUCATION,9/17/2025,September 2025 Data Release,54,2015,2019,NATIONAL,"EduLvl:ISCED2, SES:High",3121
+LR.AG15T24.RUR.GPIA,"Youth literacy rate, population 15-24 years, rural, adjusted gender parity index (GPIA)",EDUCATION,9/17/2025,September 2025 Data Release,800,1976,2024,NATIONAL,"Location:Rural, AgeRange:15-24, ParityIndex:Gender",3195
+LR.AG15T24.URB.GPIA,"Youth literacy rate, population 15-24 years, urban, adjusted gender parity index (GPIA)",EDUCATION,9/17/2025,September 2025 Data Release,861,1976,2024,NATIONAL,"Location:Urban, AgeRange:15-24, ParityIndex:Gender",3195
+NER.0.GPIA.CP,"Net enrolment rate, early childhood education, adjusted gender parity index (GPIA)",EDUCATION,9/17/2025,September 2025 Data Release,5175,1997,2025,"REGIONAL, NATIONAL","EduLvl:ISCED0, ParityIndex:Gender",3249
+PTRHC.2.QUALIFIED,Pupil-qualified teacher ratio in lower secondary (headcount basis),EDUCATION,9/17/2025,September 2025 Data Release,2533,1999,2025,"REGIONAL, NATIONAL",EduLvl:ISCED2,3190
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),EDUCATION,9/17/2025,September 2025 Data Release,5192,1970,2025,NATIONAL,,2150
